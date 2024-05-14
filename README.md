@@ -24,7 +24,8 @@ This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwi
 - How to handle relations between Server and Child components!
 - How to reuse layouts
 - Folder structure in Next 13 App Router
-- Prerequisites
+
+### Prerequisites
 - Node version 18.x.x
 
 ### Cloning the repository
